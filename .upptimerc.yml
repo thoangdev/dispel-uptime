@@ -4,6 +4,12 @@ repo: dispel-uptime
 sites:
   - name: Dispel STIG
     url: https://dashboard.dispel.io/
+  - name: ABB
+    url: https://secureremote.abb.com/
+  - name: MCC
+    url: https://mcc.dispel.io/
+  - name: ESTEE
+    url: https://ztogateway.elcompanies.com/
 
 status-website:
   baseUrl: /dispel-uptime
@@ -12,7 +18,7 @@ status-website:
   introTitle: "**Dispel Uptime Monitor**"
   introMessage: This site shows live uptime and response stats for Dispel systems.
   navbar:
-    - title: Status
-      href: https://thoangdev.github.io/dispel-uptime/
+    - title: Advertisement
+      href: https://thoangdev.github.io/
     - title: GitHub
       href: https://github.com/thoangdev/dispel-uptime
