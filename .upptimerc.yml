@@ -19,7 +19,7 @@ status-website:
   baseUrl: /dispel-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dispel PROD Uptime Monitor
-  introTitle: "**Dispel Uptime Monitor**"
+  introTitle: "**Dispel PROD Uptime Monitor**"
   introMessage: This site shows live uptime and response stats for Dispel systems.
   navbar:
     - title: Advertisement
