@@ -13,6 +13,6 @@ status-website:
   introMessage: This site shows live uptime and response stats for Dispel systems.
   navbar:
     - title: Status
-      href: /
+      href: https://thoangdev.github.io/dispel-uptime/
     - title: GitHub
       href: https://github.com/thoangdev/dispel-uptime
